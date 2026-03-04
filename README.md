@@ -111,9 +111,3 @@ Se realizó un análisis exhaustivo mediante:
 
 ---
 
-## 🚀 Instrucciones para ejecutar el cuaderno
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/JonathanMarino/Challenge-Telecom-X-parte-2.git](https://github.com/JonathanMarino/Challenge-Telecom-X-parte-2.git)
-   cd Challenge-Telecom-X-parte-2
